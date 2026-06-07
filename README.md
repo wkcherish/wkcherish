@@ -27,7 +27,7 @@
       <!-- 编程语言 -->
       <a href=""><img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" ></a>&emsp;
-      <a href=""><img src="https://img.shields.io/badge/C/C++-14354C?style=for-the-badge&logo=python&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/C/C++-14354C?style=for-the-badge&logo=C/C++&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" ></a>&emsp;
       <!-- 上位机 -->
