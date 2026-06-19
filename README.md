@@ -16,7 +16,6 @@
 
 ## My Projects📚
 - [学生管理系统](https://github.com/wkcherish/studentProject)
-- [mr+AI的布匹检测系统](https://github.com/wkcherish/mr-check)
 - [vr手柄手势控制ur5机械臂运动](https://github.com/wkcherish/AR-UR5)
 - [基于Nuxt的个人网站开发](https://github.com/wkcherish/myweb)
 - ACT、SmolVLA、Pi0.5 算法复现与实验
