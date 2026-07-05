@@ -47,3 +47,12 @@
 ****
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkcherish&show_icons=true&cache_seconds=3600" style="margin-right: 20px;" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkcherish&layout=compact&cache_seconds=3600" />
+
+## Github contribution
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wkcherish&theme=github-compact&hide_border=true&area=true&custom_title=wkcherish%27s%20Contribution%20Graph"
+    alt="wkcherish's Contribution Graph"
+  />
+</p>
